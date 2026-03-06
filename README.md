@@ -20,13 +20,9 @@
 
 Most personality tools ask you to describe yourself.
 
-Self-report is the dominant methodology — answer 100 questions about how you think, feel, and behave, and receive a profile based on your own account of yourself. The limitations are well-documented. Social desirability bias. Inconsistent self-perception. The gap between who we believe we are and how we actually engage with the world.
+Self-report is the dominant methodology — answer a questionnaire about how you think, feel, and behave, and receive a profile based on your own account of yourself. The limitations are well-documented: social desirability bias, inconsistent self-perception, and the gap between who we believe we are and how we actually engage with the world.
 
-> **The result:** Personality profiles that reflect self-image rather than psychological reality — useful as a starting point, limited as a foundation for adaptive AI systems.
-
-Music preference offers a different signal entirely.
-
-You don't choose how music makes you feel. Your responses to sound — what draws you in, what leaves you cold, what energises or unsettles you — are grounded in neurological and psychological patterns that operate below conscious self-presentation. They are harder to game, harder to rationalise, and more consistent across time.
+Music preference offers a different signal. Your responses to sound — what draws you in, what leaves you cold — operate below conscious self-presentation. They are harder to game and more consistent across time.
 
 **This is the foundation Sounds Like Me is built on.**
 
@@ -38,28 +34,26 @@ You don't choose how music makes you feel. Your responses to sound — what draw
 
 Sounds Like Me is a personality assessment platform that infers your OCEAN Big Five profile through your responses to music.
 
-It is not a music recommendation engine. It does not analyse your listening history or track what you play. It presents you with carefully selected audio stimuli — 45 tracks, 30 seconds each — and derives a validated personality profile from how you respond.
+It is not a music recommendation engine. It does not analyse your listening history or track what you play. It presents 45 carefully selected audio stimuli — 30 seconds each — and derives a validated personality profile from how you respond.
 
-The output is self-knowledge, not a playlist. The methodology is grounded in decades of peer-reviewed research by **Professor Adrian North**, whose work on the empirical relationships between musical preferences and psychological traits has been validated across cultures and populations.
+The output is self-knowledge, not a playlist.
 
 <br>
 
 ---
 
-## The Research Foundation
+## Research Foundation
 
-Sounds Like Me is the applied expression of Professor Adrian North's music psychology research — **27 years of academic work and over 108 peer-reviewed publications** establishing the empirical basis for music preference as a reliable signal for OCEAN trait inference.
-
-### Why Music Works as a Psychological Signal
+Sounds Like Me is the applied expression of **Professor Adrian North's** music psychology research — 27 years of academic work and over 108 peer-reviewed publications establishing the empirical basis for music preference as a reliable signal for OCEAN trait inference, validated across cultures and populations.
 
 | Property | Description |
 |---|---|
 | **Implicit response** | Musical reactions operate below deliberate self-presentation — harder to fake, harder to rationalise |
-| **Cross-cultural validation** | Relationships between music preference and OCEAN traits have been validated across populations and cultural contexts |
+| **Cross-cultural validation** | Relationships between music preference and OCEAN traits validated across populations |
 | **Temporal consistency** | Music preference shows strong test-retest reliability — more stable than many self-report measures |
 | **Non-invasive acquisition** | Personality inference without surveillance, tracking, or behavioral monitoring |
 
-> **NRich does not claim proprietary psychological breakthroughs.** Sounds Like Me applies Professor North's validated research to the problem of personality acquisition — translating established academic findings into a structured, computable assessment.
+> NRich does not claim proprietary psychological breakthroughs. Sounds Like Me applies Professor North's validated research to the problem of personality acquisition — translating established academic findings into a structured, computable assessment.
 
 <br>
 
@@ -103,19 +97,9 @@ Sounds Like Me is the applied expression of Professor Adrian North's music psych
 └──────────────────────────────────────────────────────────────┘
 ```
 
-### Culture-Specific Assessment
+The track set adjusts based on country. UK users receive a different set of 45 tracks than US users — not just different songs, but different genre distributions calibrated to local cultural norms. Musical meaning is culturally situated. Sounds Like Me measures preference against validated cultural norm groups, not a global average.
 
-Sounds Like Me adjusts the track set based on the user's country. UK users receive a different set of 45 tracks than US users — not just different songs, but different genre distributions calibrated to local cultural norms.
-
-Musical meaning is culturally situated. Country music carries different connotations in Nashville than in London. Classical music has different cultural weight across populations. Measuring preference against a global average produces a flattened signal. Sounds Like Me measures against validated cultural norm groups.
-
-### The Rating Experience
-
-45 tracks. 30-second clips. A 5-point scale from Really Dislike to Really Like. One track at a time. A progress tracker throughout.
-
-The experience is designed to feel like discovery, not examination. The user is reacting to music. The system is inferring psychology.
-
-Total time: approximately 10–12 minutes.
+Progress saves across sessions and platforms. The assessment can be completed in stages.
 
 <br>
 
@@ -128,25 +112,19 @@ Total time: approximately 10–12 minutes.
 | Output | Description |
 |---|---|
 | **OCEAN percentile scores** | Full five-dimension profile with percentile rankings against cultural norm group |
-| **Personality nickname** | Trait-derived identity label (e.g., The Maverick, The Harmoniser) based on dominant profile |
-| **Written summary** | Contextualised explanation of what the profile suggests — not just numbers |
-| **Cultural comparison** | Percentile positioning relative to your norm group, not a global average |
+| **Personality nickname** | Trait-derived identity label based on dominant profile |
+| **Written summary** | Contextualised explanation of what the profile suggests |
+| **Cultural comparison** | Percentile positioning relative to your norm group |
 
 Scores are contextualised, not just reported. A result is not "high Openness" — it is "82nd percentile for Openness, suggesting a draw toward novelty, abstract ideas, and unconventional experience."
 
 ### Membership
 
-- Extended personality report with deeper trait analysis
-- Unlimited Spotify playlist generation matched to personality profile
-- Career insights grounded in occupational psychology research
-- Compatibility comparisons with connected contacts
-- Full Chomi integration — AI companion knows your OCEAN profile from the first interaction
+Extended trait analysis · Spotify playlist generation · Career insights · Compatibility comparisons · Full Chomi integration with OCEAN profile available from first interaction.
 
 ### Profile Portability
 
-Your OCEAN profile carries across the NRich ecosystem. If you use Chomi, it has access to your personality data from day one — no re-explanation, no re-inference, no starting from scratch.
-
-One assessment. Persistent understanding across the ecosystem.
+Your OCEAN profile carries across the NRich ecosystem. One assessment. Persistent understanding.
 
 <br>
 
@@ -154,16 +132,9 @@ One assessment. Persistent understanding across the ecosystem.
 
 ## Platform Availability
 
-Sounds Like Me requires no dedicated app installation. It is available across:
+No app installation required. Available across web, WhatsApp, Telegram, and Discord. Progress persists across platforms.
 
-| Platform | Access |
-|---|---|
-| **Web** | soundslikeme.co.uk |
-| **WhatsApp** | Direct integration |
-| **Telegram** | Direct integration |
-| **Discord** | Direct integration |
-
-Progress saves across platforms. Start on web, continue on WhatsApp. The assessment state persists.
+**Web:** [soundslikeme.co.uk](https://soundslikeme.co.uk)
 
 <br>
 
@@ -171,21 +142,15 @@ Progress saves across platforms. Start on web, continue on WhatsApp. The assessm
 
 ## Privacy
 
-Sounds Like Me handles personality data — information with genuine psychological depth. The privacy architecture reflects that.
+Sounds Like Me handles personality data — information with genuine psychological depth. Four principles govern the architecture:
 
-### Privacy as Infrastructure
+**Data stays yours.** Profiles are never sold to third parties. You control visibility — private, shared with specific contacts, or public. Delete anytime.
 
-| Principle | Implementation |
-|---|---|
-| **Data residency** | Azure OpenAI UK South region · UK/EU data residency |
-| **No training on user data** | Azure OpenAI enterprise agreement — your data does not train models |
-| **No data sales** | User personality profiles are never packaged or sold to third parties |
-| **Minimal data collection** | Track ratings, OCEAN scores, country. Nothing else by default |
-| **Spotify: write-only** | OAuth connection · minimal permissions · playlists are written, listening history is never read or stored |
-| **User-controlled visibility** | Private by default · share with specific contacts · or make public · delete anytime |
-| **GDPR-compliant by design** | Not retrofitted — built into the architecture from the ground up |
+**Data stays in region.** Azure OpenAI UK South. UK/EU data residency. GDPR-compliant by design.
 
-> Your personality profile belongs to you. Sounds Like Me is the measurement instrument. What you do with the output — who sees it, where it goes, whether it persists — is your decision.
+**Data doesn't train models.** Azure OpenAI enterprise agreement — your responses do not train AI systems.
+
+**Spotify is write-only.** OAuth connection, minimal permissions. Playlists are written. Listening history is never read or stored.
 
 <br>
 
@@ -193,22 +158,10 @@ Sounds Like Me handles personality data — information with genuine psychologic
 
 ## What Sounds Like Me Is Not
 
-### Sounds Like Me Does NOT:
-
-- ⛔ Recommend music based on listening history
-- ⛔ Track what you play, when you play it, or how often
-- ⛔ Analyse your existing Spotify or streaming library
-- ⛔ Provide psychological diagnosis or clinical assessment
-- ⛔ Claim to replace validated psychometric instruments in clinical contexts
-- ⛔ Engage in behavioral surveillance or covert data collection
-
-### Sounds Like Me DOES:
-
-- ✅ Infer OCEAN personality traits through validated music preference methodology
-- ✅ Ground inference in Professor Adrian North's peer-reviewed research
-- ✅ Produce culturally calibrated personality profiles
-- ✅ Make personality data portable across the NRich ecosystem
-- ✅ Protect user data as a foundational architectural commitment
+- ⛔ A music recommendation engine based on listening history
+- ⛔ A behavioral tracking or surveillance system
+- ⛔ A clinical psychological assessment tool
+- ⛔ A replacement for validated psychometric instruments in clinical contexts
 
 <br>
 
@@ -230,33 +183,14 @@ Sounds Like Me is the **behavioral signal acquisition layer** of the NRich ecosy
 │      SOUNDS LIKE ME      │  │            CHOMI               │
 │  Behavioral Signal       │  │   Jungian Application Layer    │
 │  Acquisition Layer       │→→│   Receives OCEAN profile       │
-│                          │  │   from Sounds Like Me          │
-│  Music → OCEAN profile   │  │   on first interaction         │
+│  Music → OCEAN profile   │  │   from first interaction       │
 └──────────────────────────┘  └───────────────────────────────┘
 ```
 
 Sounds Like Me generates the profile. NRich encodes and manages it. Chomi applies it.
 
-The assessment is the foundation. Without it, AI adaptation relies on inference from conversation alone. With it, the system begins with a validated psychological model of the individual — structurally grounded from the first interaction.
-
 → [NRich Repository](#)
 → [Chomi Repository](#)
-
-<br>
-
----
-
-## The OCEAN Framework
-
-| Dimension | What It Measures |
-|---|---|
-| **Openness** | Intellectual curiosity, preference for novelty, aesthetic sensitivity, abstract thinking |
-| **Conscientiousness** | Organisation, goal-directedness, deliberation, preference for structure |
-| **Extraversion** | Social engagement, assertiveness, energy derived from interaction |
-| **Agreeableness** | Empathy, cooperation, prosocial orientation, interpersonal warmth |
-| **Neuroticism** | Emotional stability, stress reactivity, anxiety sensitivity |
-
-Scores are expressed as percentiles against a culturally calibrated norm group — not as categorical types or fixed labels. The profile is dimensional, not classificatory.
 
 <br>
 
