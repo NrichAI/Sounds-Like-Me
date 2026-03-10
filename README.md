@@ -2,12 +2,12 @@
 
 # Sounds Like Me
 
-### Music-based personality discovery grounded in validated psychology
+### Music psychology delivered as a functional personality discovery platform
 
 [![Research](https://img.shields.io/badge/Research-Prof._Adrian_North-8E44AD.svg)](https://soundslikeme.co.uk)
 [![Framework](https://img.shields.io/badge/Framework-OCEAN_Big_Five-4A90E2.svg)](https://soundslikeme.co.uk)
 [![Status](https://img.shields.io/badge/Status-Live-brightgreen.svg)](https://soundslikeme.co.uk)
-[![Privacy](https://img.shields.io/badge/Privacy-Local--First-blue.svg)](https://soundslikeme.co.uk)
+[![Privacy](https://img.shields.io/badge/Privacy-Encrypted-blue.svg)](https://soundslikeme.co.uk)
 [![NRich Ecosystem](https://img.shields.io/badge/NRich-Ecosystem-E74C3C.svg)](https://nrichs.me)
 
 [Live Product](https://soundslikeme.co.uk) • [NRich](https://nrichs.me) • [Chomi](#) • [Support](mailto:support@nrichs.me)
@@ -16,44 +16,110 @@
 
 ---
 
-## The Problem With Personality Assessment
-
-Most personality tools ask you to describe yourself.
-
-Self-report is the dominant methodology — answer a questionnaire about how you think, feel, and behave, and receive a profile based on your own account of yourself. The limitations are well-documented: social desirability bias, inconsistent self-perception, and the gap between who we believe we are and how we actually engage with the world.
-
-Music preference offers a different signal. Your responses to sound — what draws you in, what leaves you cold — operate below conscious self-presentation. They are harder to game and more consistent across time.
-
-**This is the foundation Sounds Like Me is built on.**
-
-<br>
-
----
-
 ## What is Sounds Like Me?
 
-Sounds Like Me is a personality assessment platform that infers your OCEAN Big Five profile through your responses to music.
+Sounds Like Me is a music psychology application — delivering validated personality discovery through your responses to music.
 
-It is not a music recommendation engine. It does not analyse your listening history or track what you play. It presents 45 carefully selected audio stimuli — 30 seconds each — and derives a validated personality profile from how you respond.
+Most personality tools ask you to describe yourself. Self-report is vulnerable to bias, inconsistent self-perception, and the gap between who we believe we are and how we actually engage with the world.
 
-The output is self-knowledge, not a playlist.
+Music preference offers a different signal entirely. Your responses to sound operate below conscious self-presentation — harder to game, more consistent across time, and grounded in decades of peer-reviewed research establishing music taste as a reliable indicator of psychological traits.
+
+Sounds Like Me applies that research as a functional platform. You respond to music. The platform derives your OCEAN personality profile. The output is self-knowledge, grounded in science.
+
+This is not a music recommendation engine. It does not analyse your listening history or track what you play.
 
 <br>
 
 ---
 
-## Research Foundation
+## The Music Psychology Feature Set
 
-Sounds Like Me is the applied expression of **Professor Adrian North's** music psychology research — 27 years of academic work and over 108 peer-reviewed publications establishing the empirical basis for music preference as a reliable signal for OCEAN trait inference, validated across cultures and populations.
+Sounds Like Me delivers validated music psychology research as a structured set of features — each grounded in the published work of Professor Adrian North and the broader music psychology literature.
+
+### 🎵 Music-Based Personality Assessment
+
+The core feature. 45 carefully selected audio stimuli — 30-second clips spanning multiple genres — presented one at a time. You respond to each track on a continuous scale, capturing the full range of your preference rather than forcing it into fixed points. The signal evolves across all 45 tracks, with each response contributing to an increasingly precise personality profile.
+
+You are not required to recognise the tracks. Prior familiarity is not a factor. The signal emerges from how you respond, not what you know.
+
+---
+
+### 🌍 Cultural Calibration
+
+Genre meanings are culturally situated. Country music carries different connotations in Nashville than in London. Applying a single global playlist produces a flattened, culturally invalid signal.
+
+Sounds Like Me uses culture-specific track sets, genre-personality coefficients, and normative data — calibrated to your country. Your percentile scores compare you to people in your cultural context, not a meaningless global average.
+
+---
+
+### 📊 OCEAN Percentile Profiling
+
+Your results are not categorical labels or personality types. They are five-dimensional percentile scores across the full OCEAN framework — expressed relative to your cultural norm group.
+
+| Dimension | What It Measures |
+|---|---|
+| **Openness** | Intellectual curiosity, preference for novelty, aesthetic sensitivity |
+| **Conscientiousness** | Organisation, goal-directedness, preference for structure |
+| **Extraversion** | Social engagement, assertiveness, energy from interaction |
+| **Agreeableness** | Empathy, cooperation, interpersonal warmth |
+| **Neuroticism** | Emotional stability, stress reactivity, anxiety sensitivity |
+
+A score is not "high Openness" — it is "82nd percentile for Openness, suggesting a draw toward novelty, abstract ideas, and unconventional experience." Contextualised, not just reported.
+
+---
+
+### 🤖 SLM-3 Personality Report Generation
+
+Personality reports are generated by **SLM-3** — a proprietary model developed and fine-tuned by NRich specifically for OCEAN-based personality analysis.
+
+General-purpose language models are not optimised for psychometric interpretation. SLM-3 is trained on the specific task of translating OCEAN trait profiles into structured, meaningful personality reports — producing analysis with the precision the methodology requires.
+
+SLM-3 operates exclusively on the structured OCEAN vector output from the assessment. It does not process personal data or conversation content.
+
+---
+
+### 🎧 Spotify Playlist Generation
+
+Membership unlocks unlimited Spotify playlist generation matched to your personality profile — music selected to resonate with your specific OCEAN trait structure. OAuth connection, minimal permissions. Playlists are written. Your listening history is never read or stored.
+
+---
+
+### 💼 Career Insights
+
+Occupational psychology research establishes consistent relationships between personality traits and professional environments. Membership unlocks career insights grounded in that research — what fields and roles tend to align with your specific profile.
+
+---
+
+### 🔗 Profile Portability
+
+Your OCEAN profile carries across the NRich ecosystem. One assessment. Persistent understanding. When you use Chomi, it has access to your personality profile from the first interaction — no re-explanation, no starting from scratch.
+
+---
+
+### 👥 Compatibility Comparisons
+
+Membership enables compatibility comparisons with connected contacts — personality-grounded insight into how different trait profiles interact.
+
+<br>
+
+---
+
+## The Research Foundation
+
+Sounds Like Me is the applied expression of **Professor Adrian North's** music psychology research — 27 years of academic work and over 108 peer-reviewed publications establishing the empirical basis for music preference as a reliable signal for OCEAN trait inference.
+
+A major study conducted by Professor Adrian North at Heriot-Watt University surveyed **36,518 participants** worldwide, who rated their preferences across 104 musical styles and completed a Big Five personality inventory. Published as *Individual Differences in Musical Taste*, it was widely described as the largest study examining the relationship between musical taste and personality at the time of publication.
+
+The study confirmed statistically meaningful correlations between music preference and personality traits. It also found that demographic variables including age, sex, and income sometimes showed relationships of comparable strength — an important nuance the research acknowledges. Music preference is a meaningful psychological signal. It is one signal among several, and Sounds Like Me treats it as such.
 
 | Property | Description |
 |---|---|
-| **Implicit response** | Musical reactions operate below deliberate self-presentation — harder to fake, harder to rationalise |
+| **Implicit response** | Musical responses involve affective processing that often occurs before conscious reflection |
 | **Cross-cultural validation** | Relationships between music preference and OCEAN traits validated across populations |
-| **Temporal consistency** | Music preference shows strong test-retest reliability — more stable than many self-report measures |
-| **Non-invasive acquisition** | Personality inference without surveillance, tracking, or behavioral monitoring |
+| **Temporal consistency** | Musical preferences show substantial stability across time |
+| **Non-invasive acquisition** | Personality inference without surveillance, tracking, or behavioural monitoring |
 
-> NRich does not claim proprietary psychological breakthroughs. Sounds Like Me applies Professor North's validated research to the problem of personality acquisition — translating established academic findings into a structured, computable assessment.
+> NRich does not claim proprietary psychological breakthroughs. Sounds Like Me applies Professor North's validated research — translating established academic findings into a structured, computable assessment.
 
 <br>
 
@@ -71,7 +137,7 @@ Sounds Like Me is the applied expression of **Professor Adrian North's** music p
                          ▼
 ┌──────────────────────────────────────────────────────────────┐
 │                  AUDIO STIMULUS PRESENTATION                  │
-│        45 tracks · 30-second clips · 5-point rating scale    │
+│        45 tracks · 30-second clips · continuous preference scale │
 │        One track at a time · ~10 minutes total               │
 └────────────────────────┬─────────────────────────────────────┘
                          │
@@ -85,7 +151,7 @@ Sounds Like Me is the applied expression of **Professor Adrian North's** music p
                          ▼
 ┌──────────────────────────────────────────────────────────────┐
 │                  OCEAN PROFILE GENERATION                     │
-│     Five-dimension percentile scores against cultural norms  │
+│     Percentile scores against cultural norms                 │
 │     Openness · Conscientiousness · Extraversion              │
 │     Agreeableness · Neuroticism                              │
 └────────────────────────┬─────────────────────────────────────┘
@@ -104,47 +170,6 @@ Sounds Like Me is the applied expression of **Professor Adrian North's** music p
 └──────────────────────────────────────────────────────────────┘
 ```
 
-The track set adjusts based on country. UK users receive a different set of 45 tracks than US users — not just different songs, but different genre distributions calibrated to local cultural norms. Sounds Like Me measures preference against validated cultural norm groups, not a global average.
-
-Progress saves across sessions and platforms. The assessment can be completed in stages.
-
-<br>
-
----
-
-## SLM-3
-
-Personality reports are generated by **SLM-3** — a proprietary model developed and fine-tuned by NRich specifically for OCEAN-based personality analysis.
-
-General-purpose language models are not optimised for psychometric interpretation. SLM-3 is trained on the specific task of translating OCEAN trait profiles into structured, meaningful personality reports — producing analysis with the precision the methodology requires, rather than generic LLM output applied to a psychology task.
-
-SLM-3 is an internal model. It does not process user conversations. It operates exclusively on the structured OCEAN vector output from the assessment.
-
-<br>
-
----
-
-## The Output
-
-### Free Tier
-
-| Output | Description |
-|---|---|
-| **OCEAN percentile scores** | Full five-dimension profile with percentile rankings against cultural norm group |
-| **Personality nickname** | Trait-derived identity label based on dominant profile |
-| **Written summary** | Contextualised explanation generated by SLM-3 |
-| **Cultural comparison** | Percentile positioning relative to your norm group |
-
-Scores are contextualised, not just reported. A result is not "high Openness" — it is "82nd percentile for Openness, suggesting a draw toward novelty, abstract ideas, and unconventional experience."
-
-### Membership
-
-Extended trait analysis · Spotify playlist generation · Career insights · Compatibility comparisons · Full Chomi integration with OCEAN profile available from first interaction.
-
-### Profile Portability
-
-Your OCEAN profile carries across the NRich ecosystem. One assessment. Persistent understanding.
-
 <br>
 
 ---
@@ -161,15 +186,23 @@ No app installation required. Available across web, WhatsApp, Telegram, and Disc
 
 ## Privacy
 
-Four principles govern the architecture:
+We don't mine your data. We don't use it to train our AI, or for any purpose other than to provide services to you. We can't read your conversations at all.
 
-**Data stays yours.** Profiles are never sold to third parties. You control visibility — private, shared, or public. Delete anytime.
+This is not a policy commitment. It is an architectural one — enforced through encryption.
 
-**Data stays in region.** Azure OpenAI UK South. UK/EU data residency. GDPR-compliant by design.
+**End-to-end encryption.** Your data is encrypted end-to-end. We cannot access your profile or responses even if compelled to.
 
-**Data doesn't train models.** Your responses do not train AI systems. SLM-3 operates on structured assessment output only — not on personal data.
+**No data mining.** Sounds Like Me is a prediction platform grounded in OCEAN personality scores derived from validated music psychology research — not behavioural surveillance. Your ratings are used to generate your profile. Nothing else.
+
+**No data sales.** Your personality profile is never sold or shared with third parties.
+
+**No training on your data.** Your responses are never used to train AI models. SLM-3 operates on structured assessment output only.
+
+**UK/EU data residency.** Hosted on Microsoft Azure, UK South region. GDPR-compliant by design.
 
 **Spotify is write-only.** OAuth connection, minimal permissions. Playlists are written. Listening history is never read or stored.
+
+**You're in control.** Keep your profile private, share with specific contacts, or make it public. Delete your data anytime.
 
 <br>
 
@@ -178,7 +211,8 @@ Four principles govern the architecture:
 ## What Sounds Like Me Is Not
 
 - ⛔ A music recommendation engine based on listening history
-- ⛔ A behavioral tracking or surveillance system
+- ⛔ A behavioural tracking or surveillance system
+- ⛔ A data mining platform
 - ⛔ A clinical psychological assessment tool
 - ⛔ A replacement for validated psychometric instruments in clinical contexts
 
@@ -188,7 +222,7 @@ Four principles govern the architecture:
 
 ## Ecosystem Position
 
-Sounds Like Me is the **behavioral signal acquisition layer** of the NRich ecosystem — the entry point through which personality data enters the system.
+Sounds Like Me is the music psychology application layer of the **NRich** behavioral intelligence ecosystem — the entry point through which validated personality data enters the system.
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -200,10 +234,10 @@ Sounds Like Me is the **behavioral signal acquisition layer** of the NRich ecosy
                    ▼                      ▼
 ┌──────────────────────────┐  ┌───────────────────────────────┐
 │      SOUNDS LIKE ME      │  │            CHOMI               │
-│  Behavioral Signal       │  │   Jungian Application Layer    │
-│  Acquisition Layer       │→→│   Receives OCEAN profile       │
-│  Music → OCEAN profile   │  │   from first interaction       │
-│  SLM-3 report generation │  │                               │
+│  Music Psychology        │  │  Jungian Psychology            │
+│  Application Layer       │→→│  Application Layer             │
+│  Music → OCEAN profile   │  │  Receives OCEAN profile        │
+│  SLM-3 report generation │  │  from first interaction        │
 └──────────────────────────┘  └───────────────────────────────┘
 ```
 
@@ -218,7 +252,7 @@ Sounds Like Me generates the profile. SLM-3 produces the report. NRich encodes a
 
 <div align="center">
 
-### Sounds Like Me applies validated music psychology research to derive structured personality profiles — without surveillance, without self-report bias, and without tracking.
+### Sounds Like Me delivers validated music psychology research as a functional personality discovery platform — without surveillance, without self-report bias, and without tracking.
 
 **The output is self-knowledge. The methodology is science.**
 
